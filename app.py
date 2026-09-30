@@ -455,7 +455,7 @@ def generate_pdf_cert(student_name, score, level, cert_id, issue_date):
   pdf.set_draw_color(142, 36, 170)
   pdf.rect(10, 10, 277, 190)
 
-  pdf.set_line_width(0.😎
+  pdf.set_line_width(0.1)
   pdf.set_draw_color(216, 27, 96)
   pdf.rect(14, 14, 269, 182)
 
