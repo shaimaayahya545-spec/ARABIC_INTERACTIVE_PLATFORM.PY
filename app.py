@@ -614,7 +614,7 @@ elif menu_choice == "🏆 لوحة المتصدرين":
   st.dataframe(df_lb, use_container_width=True)
 elif menu_choice == "👩‍🏫 لوحة إدارة المعلمة":
   st.subheader("👩‍🏫 لوحة الإدارة والتحكم - المعلمة شيماء يحيى")
-  st.write(
+  st.write()
       "أهلاً بكِ معلمة شيماء! يمكنكِ متابعة أداء الطلاب وتحديث شرط الشهادة"
       " وتصدير البيانات."
 
